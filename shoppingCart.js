@@ -1,6 +1,6 @@
 // exporting moduel
 
-console.log('exporting moduel');
+console.log("exporting moduel");
 
 const shippingCost = 10;
 export const cart = [];

@@ -1,6 +1,5 @@
 // importing moduel
 
-/*
 import * as ShoppingCart from "./shoppingCart.js";
 
 import add, { cart } from "./shoppingCart.js";
@@ -36,7 +35,6 @@ const ShoppingCart2 = (function () {
 })();
 
 ShoppingCart2.addToCart(2, "pizza");
-*/
 
 import cloneDeep from "./node_modules/lodash-es/cloneDeep.js";
 const state = {
